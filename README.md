@@ -6,5 +6,4 @@
   1.4 git status
   1.5 git push
   1.6 git pull
-  1.7 Commit changes button
-  1.8 prueba 2
+
