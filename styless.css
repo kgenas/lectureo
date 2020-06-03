@@ -1,0 +1,45 @@
+h1
+    {
+        color: blue;    
+        text-align: center;
+    }
+p   {
+        color: red;
+    }    
+table
+    {
+        border: 2px solid black;
+        border-collapse: collapse; /*  two lines between in table   */
+                                   /*  delete de two lines */     
+        width: 50%;
+    }
+
+th,td
+    {
+        border: 1px solid black;
+        padding: 5px; /*5px de espacion dentro del cuadro */
+        text-align: center;
+    }    
+th  {
+        background-color: lightslategrey;
+    }
+
+#top /* id  */
+    {
+        font-size: 36px;
+    }
+
+#middle
+    {
+        font-size: 24px;
+    }
+
+#bottom
+    {
+        font-size: 12px;
+    }
+
+.name /*    class   */
+    {
+        font-weight: bold;
+    }
